@@ -1,0 +1,13 @@
+C:\Users\aysegul\source\repos\School_Project\School_Project\bin\Debug\School_Project.exe.config
+C:\Users\aysegul\source\repos\School_Project\School_Project\bin\Debug\School_Project.exe
+C:\Users\aysegul\source\repos\School_Project\School_Project\bin\Debug\School_Project.pdb
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.csproj.AssemblyReference.cache
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.Form1.resources
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.Form_StGrades.resources
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.Properties.Resources.resources
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.csproj.GenerateResource.cache
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.csproj.CoreCompileInputs.cache
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.exe
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.pdb
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.Form_Teacher.resources
+C:\Users\aysegul\source\repos\School_Project\School_Project\obj\Debug\School_Project.Form_Club.resources
